@@ -15,6 +15,7 @@ the most water.
 ## Examples
 ### Example 1:
 ![](img/example1.jpg)
+
     Input: height = [1,8,6,2,5,4,8,3,7]
     Output: 49
     Explanation: The above vertical lines are represented by array
@@ -34,6 +35,6 @@ the most water.
     Output: 2
 
 ## Constraints:
-    2 <= height.length <= 3 * 10<sup>4</sup>
-    0 <= height[i] <= 3 * 10<sup>4</sup>
+    2 <= height.length <= 3 * 10^4
+    0 <= height[i] <= 3 * 10^4
 
