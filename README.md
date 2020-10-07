@@ -3,6 +3,7 @@
 This repository contains solutions to LeetCode problems I've submitted and
 gotten accepted.
 
+- [1 - Two Sum](https://leetcode.com/problems/two-sum/)
 - [3 - Longest substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/)
 - [5 - Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [6 - ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
