@@ -1,4 +1,4 @@
-# 4 - Generate Parenthesis
+# 22 - Generate Parenthesis
 
 ## Problem
 Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
