@@ -14,6 +14,7 @@ gotten accepted.
 - [122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [344 - Reverse String](https://leetcode.com/problems/reverse-string/)
+- [832 - Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [1108 - Defanging an IP Addres](https://leetcode.com/problems/defanging-an-ip-address/)
 - [1431 - Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [1480 - Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array)
